@@ -1,0 +1,5 @@
+{
+  "name": "Mean Value Theorem Visualizer",
+  "description": "An interactive tool to visualize and understand the Mean Value Theorem (MVT). Enter a function and an interval, and the app plots the curve, checks the conditions, and computes points c.",
+  "requestFramePermissions": []
+}
